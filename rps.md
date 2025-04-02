@@ -4,3 +4,7 @@
 3. What we've learned
     Alex - Default constructor, understands what it is; loosely understands OOP overall (object oriented programming)
     Pritam - Pseudocode, code is like a process for a machine, like writing a process for a person.
+
+    Possible improvements -
+    Play directly in the terminal
+    Have a maximum number of rounds, i.e. best out of 5?
